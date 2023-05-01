@@ -1,0 +1,15 @@
+C:\Projects\Job-Placement-ConsoleApp\JobApp.Console\bin\Debug\net6.0\JobApp.Console.exe
+C:\Projects\Job-Placement-ConsoleApp\JobApp.Console\bin\Debug\net6.0\JobApp.Console.deps.json
+C:\Projects\Job-Placement-ConsoleApp\JobApp.Console\bin\Debug\net6.0\JobApp.Console.runtimeconfig.json
+C:\Projects\Job-Placement-ConsoleApp\JobApp.Console\bin\Debug\net6.0\JobApp.Console.dll
+C:\Projects\Job-Placement-ConsoleApp\JobApp.Console\bin\Debug\net6.0\JobApp.Console.pdb
+C:\Projects\Job-Placement-ConsoleApp\JobApp.Console\obj\Debug\net6.0\JobApp.Console.csproj.AssemblyReference.cache
+C:\Projects\Job-Placement-ConsoleApp\JobApp.Console\obj\Debug\net6.0\JobApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Job-Placement-ConsoleApp\JobApp.Console\obj\Debug\net6.0\JobApp.Console.AssemblyInfoInputs.cache
+C:\Projects\Job-Placement-ConsoleApp\JobApp.Console\obj\Debug\net6.0\JobApp.Console.AssemblyInfo.cs
+C:\Projects\Job-Placement-ConsoleApp\JobApp.Console\obj\Debug\net6.0\JobApp.Console.csproj.CoreCompileInputs.cache
+C:\Projects\Job-Placement-ConsoleApp\JobApp.Console\obj\Debug\net6.0\JobApp.Console.dll
+C:\Projects\Job-Placement-ConsoleApp\JobApp.Console\obj\Debug\net6.0\refint\JobApp.Console.dll
+C:\Projects\Job-Placement-ConsoleApp\JobApp.Console\obj\Debug\net6.0\JobApp.Console.pdb
+C:\Projects\Job-Placement-ConsoleApp\JobApp.Console\obj\Debug\net6.0\JobApp.Console.genruntimeconfig.cache
+C:\Projects\Job-Placement-ConsoleApp\JobApp.Console\obj\Debug\net6.0\ref\JobApp.Console.dll
